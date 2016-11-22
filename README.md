@@ -6,3 +6,6 @@ write sth to remeber this txt.
 
 branch2 .
 write sth to remeber this txt too.
+
+local .
+write sth in my computer.
